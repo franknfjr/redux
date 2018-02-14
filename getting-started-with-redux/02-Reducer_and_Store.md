@@ -42,7 +42,7 @@ expect(
 console.log("test passed!");
 ```
 
-# 06. Métodos da store: getState(), dispatch()esubscribe()
+# 06. Métodos da store: getState(), dispatch()e subscribe()
 
 Adicionar a lib `redux`:
 `<script src="https://cdnjs.cloudflare.com/ajax/libs/redux/3.0.4/redux.js"></script>`
