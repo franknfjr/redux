@@ -43,7 +43,7 @@ O princípio geral aqui é que o estado é somente leitura e só pode ser modifi
         }
     }
 ```
-# 03. A Funções de redução
+# 04. A Funções de redução
 
 React introduziu a ideia de que a camada UI é mais previsível quando é descrita como uma função pura do estado da aplicação.
 
