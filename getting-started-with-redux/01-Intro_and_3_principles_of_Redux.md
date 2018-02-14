@@ -20,7 +20,7 @@ O princípio geral aqui é que o estado é somente leitura e só pode ser modifi
 
 # 03. Funções puras e impuras
 
-** Puro: **
+**Puro:**
 ```js
     function square(x){
         return x * x;
@@ -30,7 +30,7 @@ O princípio geral aqui é que o estado é somente leitura e só pode ser modifi
     } 
 ```
 
-** Impuro: **
+**Impuro:**
 
 ```js
     function square(x) {
